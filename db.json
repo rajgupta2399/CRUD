@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "firstName": "Raj",
+      "lastName": "Kumar",
+      "email": "raj@example.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Sagar",
+      "lastName": "Kumar",
+      "email": "sagar@example.com"
+    },
+    {
+      "firstName": "Ashutosh",
+      "lastName": "Arya",
+      "email": "rajkumar23991@outloook.com",
+      "id": 5
+    }
+  ]
+}
